@@ -1,4 +1,4 @@
-# AA1.-Introducci-n-a-la-algor-tmica-I
+# AA1.-Introduccion-a-la-algoritmica-I
 
 Considerar el siguiente algoritmo:
  
