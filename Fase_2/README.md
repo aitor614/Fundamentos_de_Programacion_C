@@ -1,4 +1,4 @@
-Introduccion_a_la_Algoritmia_II
+#Introduccion_a_la_Algoritmia_II
 
 Ejercicio 1 Construir un algoritmo que cuente los enteros positivos inferiores a 1000 que cumplan que sean múltiplos de nueve. Una manera de identificar si un número es múltiplo de nueve consiste en sumar los dígitos que componen el número a evaluar, tantas veces como haga falta hasta que nos encontremos con un número de un solo dígito. En ese momento podemos comprobar si ese número es el 9, y si lo es podremos concluir que el número analizado es efectivamente múltiplo de 9.
 
