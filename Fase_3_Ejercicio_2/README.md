@@ -18,15 +18,24 @@ Introduce un numero o 0 para salir.
 
 **********************************************************************************
 El numero: 54 tiene los siguientes 3 divisores que multiplicados son iguales a el:
+
 Divisor 1: 2
+
 Divisor 2: 3
+
 Divisor 3: 9
+
 54 = 2 * 3 * 9
 
+
 Y estos otros:
+
 Divisor 1: 3
+
 Divisor 2: 3
+
 Divisor3: 6
+
 54 = 3 * 3 * 6
 
 Mientras que, si un número no cumple con lo enunciado, como pasa con el 55, veremos una
