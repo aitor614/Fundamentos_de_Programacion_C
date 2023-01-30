@@ -14,7 +14,9 @@ Algunos números que cumplen lo que se enuncia son por ejemplo el 54 que como ve
 2 tríos:
 
 Introduce un numero o 0 para salir.
+
 54
+
 
 **********************************************************************************
 El numero: 54 tiene los siguientes 3 divisores que multiplicados son iguales a el:
@@ -42,7 +44,9 @@ Mientras que, si un número no cumple con lo enunciado, como pasa con el 55, ver
 salida como la que te muestro:
 
 Introduce un numero o 0 para salir.
+
 55
+
 
 El numero 55 no tiene 3 divisores que multiplicados sean igual a el
 
