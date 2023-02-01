@@ -58,34 +58,63 @@ Así pues, el algoritmo, dada la siguiente secuencia:
 Debería escribir:
 
 Introduce tiempo
+
 2
+
 Introduce cotizacion
+
 100
+
 Introduce tiempo
+
 3
+
 Introduce cotizacion
+
 99
+
 Introduce tiempo
+
 4
+
 Introduce cotizacion
+
 101
+
 Introduce tiempo
+
 6
+
 Introduce cotizacion
+
 100
+
 Introduce tiempo
+
 7
+
 Introduce cotizacion
+
 101
+
 Introduce tiempo
+
 8
+
 Introduce cotizacion
+
 103
+
 Introduce tiempo
+
 - 1
+
 La media de cotizacion durante el día ha sido 100.666667.
+
 Se han producido 1 cotizaciones por debajo de la primera que fue 100.000000.
+
 Se considera que la cotizaci¼n estß al alza.
+
 
 Ello es debido a que la secuencia ha superado el control, y el programa muestra la
 media de las cotizaciones registradas así como cuántas de estas han estado por
@@ -99,37 +128,68 @@ En cambio, ante la secuencia:
 Debería escribir:
 
 Introduce tiempo
+
 2
+
 Introduce cotizacila
+
 100
+
 Introduce tiempo
 4
+
 Introduce cotización
+
 100
+
 Introduce Elempo
+
 5
+
 Introduce cotizacila
+
 99
+
 Introduce tiempo
+
 6
+
 Introduce cotizacio
+
 100
+
 Introduce tiempo
+
 7
+
 Introduce cotizacio
+
 105
+
 Introduce tiempo
+
 8
+
 Introduce cotizacio
+
 111
+
 Introduce tiempo
+
 9
+
 Entroduce cotizacio
+
 105
+
 Introduce tiempo
+
 -1
+
 No se ha superado el control, puesto que:
+
 Se han producido dos cotizaciones consecutivas el alza y la ultima respecto a la primera supone un incremento de un 10 por
+
 ciento en la cotización, concretamente entre 6: 100.000000 y 8: 111,000000
 
 Puesto que no se ha superado el control dado que se han producido dos lecturas al
